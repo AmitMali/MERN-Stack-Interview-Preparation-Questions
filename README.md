@@ -2,6 +2,7 @@
 more than 240 interview preparation questions on MEARN Stack, search on internet and based on peoples experience , open for contribution
 
 *difficulty level may vary as per people knowledge and how they judge* 
+**dont forget to giv Star **
 
 | NO  | QUESTIONS                                                                                      | DIFFICULTY   | TECHNOLOGY |
 |-----|------------------------------------------------------------------------------------------------|--------------|------------|
